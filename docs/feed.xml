@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Medical College of Wisconsin – Recent News</title>
+    <link>https://raw.githubusercontent.com/plis2100/rss-mcw/main/docs/feed.xml</link>
+    <description>Latest news from the Medical College of Wisconsin</description>
+    <atom:link href="https://raw.githubusercontent.com/plis2100/rss-mcw/main/docs/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Sep 2026 17:07:15 +0000</lastBuildDate>
+    <item>
+      <title>Medical College of Wisconsin Announces New President and CEO</title>
+      <link>https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-announces-president-and-ceo</link>
+      <description>The Medical College of Wisconsin (MCW) today announced that Shekar N. Kurpad, MD, PhD, FEL ‘01, has been unanimously appointed as the institution’s seventh president and chief executive officer (CEO), effective July 1, 2026.</description>
+      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-announces-president-and-ceo</guid>
+    </item>
+    <item>
+      <title>Kratom Use is Surging in the US with Life-changing Consequences</title>
+      <link>https://www.mcw.edu/newsroom/news-articles/kratom-use-is-surging-in-the-us-with-life-changing-consequences</link>
+      <description>A new study published in Addiction has found that kratom use – measured as kratom exposures reported to US poison centers – and cases of severe medical outcomes linked to kratom use have surged in the US over the past decade.</description>
+      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/kratom-use-is-surging-in-the-us-with-life-changing-consequences</guid>
+    </item>
+    <item>
+      <title>Michels Family Donates $27 Million to the Medical College of Wisconsin to Expand Personalized Cancer Care, Accelerate Cancer Research</title>
+      <link>https://www.mcw.edu/newsroom/news-articles/michels-family-donates-27-million-to-the-medical-college-of-wisconsin-to-expand-personalized-cancer-care-and-accelerate-cancer-research</link>
+      <description>The Michels transformational gift will enable the Cancer Center to bring additional world-class precision oncology talent to MCW, enhance technological infrastructure, train and develop the next generation of cancer scientists, innovators, and entrepreneurs, and expand access to precision...</description>
+      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/michels-family-donates-27-million-to-the-medical-college-of-wisconsin-to-expand-personalized-cancer-care-and-accelerate-cancer-research</guid>
+    </item>
+    <item>
+      <title>Medical College of Wisconsin Celebrates Groundbreaking for New On-Campus Student Housing Complex</title>
+      <link>https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-celebrates-groundbreaking-for-new-on-campus-student-housing-complex</link>
+      <description>During an official groundbreaking ceremony of the Medical College of Wisconsin’s first student housing project on July 28, Shekar Kurpad, MD, PhD, MCW president and CEO, announced the building’s name: Trailmark at MCW.</description>
+      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-celebrates-groundbreaking-for-new-on-campus-student-housing-complex</guid>
+    </item>
+    <item>
+      <title>Medical College of Wisconsin Announces Dean of the School of Medicine</title>
+      <link>https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-announces-dean-of-the-school-of-medicine</link>
+      <description>Brett Kissela, MD, GME ‘96, MS, named Executive Vice President for Health Affairs and Dean of the Medical College of Wisconsin School of Medicine.</description>
+      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-announces-dean-of-the-school-of-medicine</guid>
+    </item>
+    <item>
+      <title>Chad Carlson, MD, Appointed Chair of the MCW Department of Neurology</title>
+      <link>https://www.mcw.edu/newsroom/news-articles/chad-carlson-md-appointed-chair-of-the-mcw-department-of-neurology</link>
+      <description>The Medical College of Wisconsin (MCW) is pleased to announce Chad Carlson, MD, FAAN, FAES, interim chair of neurology and professor of neurology, has been appointed Chair of the Department of Neurology.</description>
+      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/chad-carlson-md-appointed-chair-of-the-mcw-department-of-neurology</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Froedtert &amp; the Medical College of Wisconsin Cancer Network is First to Offer Proton Therapy in Wisconsin</title>
+      <link>https://www.mcw.edu/newsroom/news-articles/froedtert-and-the-medical-college-of-wisconsin-cancer-network-is-first-to-offer-proton-therapy-in-wisconsin</link>
+      <description>Revolutionary cancer treatment uses protons for precision targeting.</description>
+      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/froedtert-and-the-medical-college-of-wisconsin-cancer-network-is-first-to-offer-proton-therapy-in-wisconsin</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medical College of Wisconsin to Lead Landmark Multi-Center Clinical Trial in Traumatic Brain Injury Rehabilitation</title>
+      <link>https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-to-lead-landmark-multi-center-clinical-trial-in-traumatic-brain-injury-rehabilitation</link>
+      <description>The Medical College of Wisconsin (MCW) is leading a new multi-center clinical trial to evaluate an interdisciplinary rehabilitation model for military veterans and first responders with mild traumatic brain injury (mTBI) and co-occurring disorders such as depression, anxiety, and post-traumatic...</description>
+      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-to-lead-landmark-multi-center-clinical-trial-in-traumatic-brain-injury-rehabilitation</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biotech Company Co-founded by MCW Researcher Begins Phase II Trial of First Pepsin Inhibitor for Reflux Disease</title>
+      <link>https://www.mcw.edu/newsroom/news-articles/biotech-company-co-founded-by-mcw-researcher-begins-phase-ii-trial-of-first-pepsin-inhibitor-for-reflux-disease</link>
+      <description>The trial is led by Nikki Johnston, PhD, professor of otolaryngology and communication sciences and microbiology and immunology at the Medical College of Wisconsin and co-founder of N-Zyme Biomedical.</description>
+      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/biotech-company-co-founded-by-mcw-researcher-begins-phase-ii-trial-of-first-pepsin-inhibitor-for-reflux-disease</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCW-Green Bay, Prevea Health Retain Physician Talent Locally</title>
+      <link>https://www.mcw.edu/newsroom/news-articles/mcw-green-bay-prevea-health-retain-physician-talent-locally</link>
+      <description>MCW-Green Bay has trained the next generation of physicians in northeast Wisconsin, a pipeline that has brought new practitioners to Prevea.</description>
+      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/mcw-green-bay-prevea-health-retain-physician-talent-locally</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
