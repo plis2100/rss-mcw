@@ -8,13 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:45:51 +0000</lastBuildDate>
-    <item>
-      <title>Medical College of Wisconsin Announces New President and CEO</title>
-      <link>https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-announces-president-and-ceo</link>
-      <description>The Medical College of Wisconsin (MCW) today announced that Shekar N. Kurpad, MD, PhD, FEL ‘01, has been unanimously appointed as the institution’s seventh president and chief executive officer (CEO), effective July 1, 2026.</description>
-      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-announces-president-and-ceo</guid>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 19:01:02 +0000</lastBuildDate>
     <item>
       <title>Kratom Use is Surging in the US with Life-changing Consequences</title>
       <link>https://www.mcw.edu/newsroom/news-articles/kratom-use-is-surging-in-the-us-with-life-changing-consequences</link>
@@ -71,6 +65,13 @@
       <description>MCW-Green Bay has trained the next generation of physicians in northeast Wisconsin, a pipeline that has brought new practitioners to Prevea.</description>
       <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/mcw-green-bay-prevea-health-retain-physician-talent-locally</guid>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Froedtert ThedaCare and the Medical College of Wisconsin Earn Joint Recognition from the AMA for Physician Well-Being Efforts</title>
+      <link>https://www.mcw.edu/newsroom/news-articles/froedtert-thedacare-and-mcw-earn-joint-recognition-from-ama-for-physician-well-being-efforts</link>
+      <description>Organizations receive distinction for fostering a culture of support for physicians and clinicians.</description>
+      <guid isPermaLink="false">https://www.mcw.edu/newsroom/news-articles/froedtert-thedacare-and-mcw-earn-joint-recognition-from-ama-for-physician-well-being-efforts</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
